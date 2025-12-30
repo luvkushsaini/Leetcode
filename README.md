@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -12,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Sorting
@@ -51,4 +53,12 @@
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Math
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
