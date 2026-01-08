@@ -38,10 +38,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Greedy
 |  |
@@ -72,12 +74,14 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
@@ -86,8 +90,13 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
