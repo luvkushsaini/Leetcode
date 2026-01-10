@@ -41,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -54,11 +55,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
