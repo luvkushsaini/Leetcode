@@ -5,7 +5,7 @@ public:
 
     bool fun(int i,int j,string &s,string &p){
         if(i==n && j==m)return true;
-        if(i==n){
+        if(i==n){  //  case when i have left 0 char in s but some in p , if the left in  p are all * then they can match empty string and i can return true,else i will return false 
             for(int k=j;k<m;k++){
                 if(p[k]!='*')return false;
             }
