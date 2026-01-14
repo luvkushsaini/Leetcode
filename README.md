@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/luvkushsaini/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
