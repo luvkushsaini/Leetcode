@@ -6,6 +6,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
+| [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -41,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
@@ -49,6 +52,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
