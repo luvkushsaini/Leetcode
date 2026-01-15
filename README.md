@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/luvkushsaini/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -132,4 +133,16 @@
 | ------- |
 | [1117-building-h2o](https://github.com/luvkushsaini/Leetcode/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/luvkushsaini/Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
