@@ -20,6 +20,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/luvkushsaini/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -175,4 +179,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
