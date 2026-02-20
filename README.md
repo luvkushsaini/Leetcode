@@ -45,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -101,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
