@@ -12,6 +12,7 @@
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/luvkushsaini/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -81,6 +82,7 @@
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -112,6 +114,7 @@
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
