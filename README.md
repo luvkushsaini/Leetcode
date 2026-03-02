@@ -83,6 +83,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -94,6 +95,7 @@
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
