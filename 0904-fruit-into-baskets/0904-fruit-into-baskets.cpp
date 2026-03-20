@@ -16,10 +16,8 @@ public:
                 if(mp[fruits[l]]==0)mp.erase(fruits[l]);
                 l++;
             }
+            ans=max(ans,r-l+1);
             r++;
-            int sum=0;
-            for(auto &x:mp)sum+=x.second;
-            ans=max(sum,ans);
         }
 
         return ans;
