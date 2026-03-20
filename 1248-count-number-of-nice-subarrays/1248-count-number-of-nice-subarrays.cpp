@@ -1,27 +1,31 @@
 class Solution {
 public:
+    int n;
+
+    int solve(int k,vector<int>& nums){
+        int l=0,r=0,sum=0,count=0;
+        while(r<n){
+            sum+=nums[r];
+            while(sum>k){
+                sum-=nums[l];
+                l++;
+            }
+            count+=(r-l+1);
+            r++;
+        }
+        return count;
+    }
+
+
     int numberOfSubarrays(vector<int>& nums, int k) {
-        vector<int>oddPosition;
-        int n=nums.size();
+        n=nums.size();
+
         for(int i=0;i<n;i++){
-            if(nums[i]%2)oddPosition.push_back(i);
+            if(nums[i]%2)nums[i]=1;
+            else nums[i]=0;
         }
 
-        int ans=0;
-
-        int i=0;
-        int j=k-1;
-         
-        int size=oddPosition.size();
-        while(j<size){
-            int num1=(i!=0)?(oddPosition[i]-oddPosition[i-1]):oddPosition[i]+1;
-            int num2=(j!=size-1)?(oddPosition[j+1]-oddPosition[j]):n-oddPosition[j];
-
-            ans+=(num1*num2);
-            i++;
-            j++;
-        }
-
-        return ans;
+        int ans=solve(k,nums)-solve( k-1,nums);
+        return ans;  
     }
 };
