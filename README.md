@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
