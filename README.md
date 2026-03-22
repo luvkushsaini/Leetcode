@@ -59,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -228,6 +229,7 @@
 | [0110-balanced-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/luvkushsaini/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -244,6 +246,7 @@
 | [0110-balanced-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/luvkushsaini/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Union-Find
 |  |
 | ------- |
