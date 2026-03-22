@@ -23,12 +23,17 @@ public:
             }
             else{
                 TreeNode*predecessor=curr->left;
-                while(predecessor->right!=NULL)predecessor=predecessor->right;
-
-                predecessor->right=curr;
-                TreeNode*temp=curr;
-                curr=curr->left;
-                temp->left=NULL;
+                while(predecessor->right!=NULL  && predecessor->right!=curr)predecessor=predecessor->right;
+                
+                if(predecessor->right==NULL){
+                    predecessor->right=curr;
+                    curr=curr->left;
+                }
+                else{
+                    predecessor->right=NULL;
+                    result.push_back(curr->val);
+                    curr=curr->right;
+                }
             }
         }
         return result;
