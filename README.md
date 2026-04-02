@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -106,6 +107,7 @@
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -215,6 +217,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/luvkushsaini/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
