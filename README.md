@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/luvkushsaini/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/luvkushsaini/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -307,6 +309,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/luvkushsaini/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0052-n-queens-ii) |
 ## Monotonic Stack
