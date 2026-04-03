@@ -1,44 +1,9 @@
 class Solution {
 public:
+    // optimized solution with time complexity of O(n!) , previously we were using the check() function which was taking itself O(n) and time complexity was O(!n*n);
+    
+    vector<int>leftRow,lowerDiagonal,upperDiagonal;
     vector<vector<string>>ans;
-
-    bool check(int row,int col,vector<string>&v){
-        int n=v.size();
-
-        //upperLeft Diagonal
-        int r=row-1;
-        int c=col-1;
-
-        while(r>=0 && c>=0){
-            if(v[r][c]=='Q')return false;
-            r--;
-            c--;
-        }
-
-        // uperRight Diagonal
-        r=row-1;
-        c=col+1;
-
-        while(r>=0 && c<n){
-            if(v[r][c]=='Q')return false;
-            r--;
-            c++;
-        }
-
-        //upper rows
-
-        r=row-1;
-        c=col;
-
-        while(r>=0){
-            if(v[r][c]=='Q')return false;
-            r--;
-        }
-
-        return true;
-    }
-
-
     void solve(int row,vector<string>&v,int n){
 
         if(row==n){
@@ -47,10 +12,19 @@ public:
         }
 
         for(int col=0;col<n;col++){
-            if(check(row,col,v)){
+            if(leftRow[col]==0 && lowerDiagonal[row+col]==0 && upperDiagonal[n-1+col-row]==0){
+
                 v[row][col]='Q';
+                leftRow[col]=1;
+                lowerDiagonal[row+col]=1;
+                upperDiagonal[n-1+col-row]=1;
+
                 solve(row+1,v,n);
+
                 v[row][col]='.';
+                leftRow[col]=0;
+                lowerDiagonal[row+col]=0;
+                upperDiagonal[n-1+col-row]=0;
             }
         }
         return ;
@@ -58,6 +32,10 @@ public:
 
 
     vector<vector<string>> solveNQueens(int n) {
+        leftRow.resize(n,0);
+        lowerDiagonal.resize(2*n-1,0);
+        upperDiagonal.resize(2*n-1,0);
+
         string s(n,'.');
         vector<string>v(n,s);
 
