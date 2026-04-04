@@ -12,6 +12,7 @@
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/luvkushsaini/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -115,6 +116,7 @@
 | [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
+| [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -143,6 +145,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -314,8 +317,13 @@
 | [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/luvkushsaini/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0052-n-queens-ii) |
+| [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/luvkushsaini/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
