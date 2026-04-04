@@ -9,7 +9,7 @@
  * };
  */
 class Solution {
-public:// recursive solution 
+public:// recursive solution (doesnot have a constant space complexity )
     ListNode* reverseKGroup(ListNode* head, int k) {
         int count=0;
         ListNode*curr=head;
