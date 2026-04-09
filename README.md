@@ -317,11 +317,13 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/luvkushsaini/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/luvkushsaini/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Backtracking
 |  |
 | ------- |
