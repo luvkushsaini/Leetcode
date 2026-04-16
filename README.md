@@ -36,6 +36,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
@@ -112,6 +113,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/luvkushsaini/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
