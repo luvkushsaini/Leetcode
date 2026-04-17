@@ -24,7 +24,7 @@ class Solution {
         for (int i=0;i<n;i++) {
             mp.get(ring.charAt(i)).add(i);
         }
-         int[][]dist=new int[m][n];
+         int[][]dist=new int[m+1][n];
         for (int[]row:dist) Arrays.fill(row,Integer.MAX_VALUE);
         dist[0][0]=0;
 
@@ -52,13 +52,11 @@ class Solution {
 
                 int newCost=totalSteps+step+1;
 
-            if( currInd+1<m && dist[currInd+1][pos]>newCost){
+            if( dist[currInd+1][pos]>newCost){
                 dist[currInd+1][pos]=newCost;
             pq.add(new Pair(currInd+1,pos,newCost));
             }
-            if (currInd + 1 == m) {
-                pq.add(new Pair(currInd + 1, pos, newCost));
-              }
+
             }
 
         }
