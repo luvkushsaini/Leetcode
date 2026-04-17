@@ -1,51 +1,68 @@
 class Solution {
-    int n, m;
-    Map<Character, List<Integer>> mp;
-    int[][] dp;
+    //can be solved using both graph and dp
+    class Pair{
+        int first;
+        int second;
+        int third;
 
-    int solve(int i, int j, String ring, String key) {
-        if (i == m) return 0;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        char ch = key.charAt(i);
-        int ans = Integer.MAX_VALUE;
-
-        for (int pos : mp.get(ch)) {
-
-            int x = 1 + solve(i + 1, pos, ring, key);
-
-            if (pos < j) {
-                ans = Math.min(ans, j - pos + x);
-                ans = Math.min(ans, n - j + pos + x);
-            } else {
-                ans = Math.min(ans, pos - j + x);
-                ans = Math.min(ans, n - pos + j + x);
-            }
+        Pair(int first,int second,int third){
+            this.first=first;
+            this.second=second;
+            this.third=third;
         }
-
-        return dp[i][j] = ans;
     }
 
     public int findRotateSteps(String ring, String key) {
-        n = ring.length();
-        m = key.length();
+        int n=ring.length();
+        int m=key.length();
 
-        mp = new HashMap<>();
+        Map<Character,List<Integer>>mp=new HashMap<>();
 
-        for (char c = 'a'; c <= 'z'; c++) {
+        for(char c='a';c<='z';c++){
             mp.put(c, new ArrayList<>());
         }
-
-        for (int i = 0; i < n; i++) {
+        for (int i=0;i<n;i++) {
             mp.get(ring.charAt(i)).add(i);
         }
+         int[][]dist=new int[m][n];
+        for (int[]row:dist) Arrays.fill(row,Integer.MAX_VALUE);
+        dist[0][0]=0;
 
-        dp = new int[m][n];
-        for (int i = 0; i < m; i++) {
-            Arrays.fill(dp[i], -1);
+        PriorityQueue<Pair>pq=new PriorityQueue<>((a,b)->Integer.compare(a.third,b.third));
+        pq.add(new Pair(0,0,0));
+        int ans=Integer.MAX_VALUE;
+        while(!pq.isEmpty()){
+
+            Pair p=pq.poll();
+            int currInd=p.first;
+            int currCentre=p.second;
+            int totalSteps=p.third;
+
+            int j=currCentre;
+
+            if(currInd==m){
+                 ans=totalSteps;;
+                 break;
+            }
+            if(totalSteps>dist[currInd][currCentre])continue;
+
+            for(int pos:mp.get(key.charAt(currInd))){
+                int diff=Math.abs(pos-j);
+                int step=Math.min(diff,n-diff);
+
+                int newCost=totalSteps+step+1;
+
+            if( currInd+1<m && dist[currInd+1][pos]>newCost){
+                dist[currInd+1][pos]=newCost;
+            pq.add(new Pair(currInd+1,pos,newCost));
+            }
+            if (currInd + 1 == m) {
+                pq.add(new Pair(currInd + 1, pos, newCost));
+              }
+            }
+
         }
 
-        return solve(0, 0, ring, key);
+        return ans;
     }
 }
