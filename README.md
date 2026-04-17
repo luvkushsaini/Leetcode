@@ -43,6 +43,7 @@
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
