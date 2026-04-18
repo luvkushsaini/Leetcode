@@ -179,6 +179,7 @@
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/luvkushsaini/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
