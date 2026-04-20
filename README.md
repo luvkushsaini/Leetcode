@@ -36,6 +36,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/luvkushsaini/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -137,6 +138,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/luvkushsaini/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
