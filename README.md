@@ -40,6 +40,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/luvkushsaini/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
@@ -162,6 +163,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/luvkushsaini/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Queue
 |  |
 | ------- |
