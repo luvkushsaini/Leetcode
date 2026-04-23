@@ -42,6 +42,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
@@ -67,6 +68,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -178,6 +180,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
