@@ -124,6 +124,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/luvkushsaini/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
+| [1416-restore-the-array](https://github.com/luvkushsaini/Leetcode/tree/master/1416-restore-the-array) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -167,6 +168,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0752-open-the-lock](https://github.com/luvkushsaini/Leetcode/tree/master/0752-open-the-lock) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/luvkushsaini/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1416-restore-the-array](https://github.com/luvkushsaini/Leetcode/tree/master/1416-restore-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
