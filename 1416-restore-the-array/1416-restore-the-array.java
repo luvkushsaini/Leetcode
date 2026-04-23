@@ -11,8 +11,9 @@ class Solution {
 
         int j=i;
         long ans=0;
+        long num=0;
         while(j<s.length()){
-            long num=Long.parseLong(s.substring(i,j+1));
+             num=num*10+(s.charAt(j)-'0');
             if(num>(long)k)break;
             j++;
             ans=(ans+solve(j,s,k)%MOD)%MOD;
