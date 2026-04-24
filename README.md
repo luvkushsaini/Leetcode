@@ -131,6 +131,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2466-count-ways-to-build-good-strings](https://github.com/luvkushsaini/Leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
