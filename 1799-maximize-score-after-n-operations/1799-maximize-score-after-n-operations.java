@@ -10,12 +10,13 @@ class Solution {
     }
 
     List<Integer>list;
-    int [][]dp;
+    int []dp;
     int n;
 
-    int solve(int i,int num,int []nums){
-        if(dp[i][num]!=-1)return dp[i][num];
+    int solve(int num,int []nums){
+        if(dp[num]!=-1)return dp[num];
         int score=0;
+        int i=(Integer.bitCount(num)/2)+1;
         for(int j=0;j<n;j++){
             for(int k=j+1;k<n;k++){
                 if((1&(num>>j))==1 || (1&(num>>k))==1)continue;
@@ -23,21 +24,21 @@ class Solution {
                 int num2=nums[k];
                 num|=(1<<j);
                 num|=(1<<k);
-                score=Math.max(score,(i*gcd(num1,num2)+solve(i+1,num,nums)));
+                score=Math.max(score,(i*gcd(num1,num2)+solve(num,nums)));
                 num^=(1<<j);
                 num^=(1<<k);
             }
 
         }
 
-        return   dp[i][num]=score;
+        return   dp[num]=score;
     }
     public int maxScore(int[] nums) {
         n=nums.length;
         int x=(1<<(n));
-        dp=new int[(n/2)+2][x];
-        for(int i=0;i<(n/2+1);i++)Arrays.fill(dp[i],-1);
-        int ans=solve(1,0,nums);
+        dp=new int[x];
+        Arrays.fill(dp,-1);
+        int ans=solve(0,nums);
         return ans;
     }
 }
