@@ -34,6 +34,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/luvkushsaini/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -225,6 +226,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3905-multi-source-flood-fill](https://github.com/luvkushsaini/Leetcode/tree/master/3905-multi-source-flood-fill) |
 ## Depth-First Search
@@ -247,6 +249,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -269,6 +272,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/luvkushsaini/Leetcode/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3905-multi-source-flood-fill](https://github.com/luvkushsaini/Leetcode/tree/master/3905-multi-source-flood-fill) |
@@ -404,6 +408,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/luvkushsaini/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3887-incremental-even-weighted-cycle-queries) |
