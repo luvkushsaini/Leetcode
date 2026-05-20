@@ -36,6 +36,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/luvkushsaini/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/luvkushsaini/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -110,6 +111,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/luvkushsaini/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [1539-kth-missing-positive-number](https://github.com/luvkushsaini/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
