@@ -35,6 +35,7 @@
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/luvkushsaini/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/luvkushsaini/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/luvkushsaini/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -144,6 +145,7 @@
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/luvkushsaini/Leetcode/tree/master/1416-restore-the-array) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/luvkushsaini/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
@@ -347,6 +349,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/luvkushsaini/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/luvkushsaini/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/luvkushsaini/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/luvkushsaini/Leetcode/tree/master/2090-k-radius-subarray-averages) |
