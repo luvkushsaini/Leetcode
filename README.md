@@ -48,6 +48,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/luvkushsaini/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -126,6 +127,7 @@
 | [1539-kth-missing-positive-number](https://github.com/luvkushsaini/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/luvkushsaini/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2187-minimum-time-to-complete-trips](https://github.com/luvkushsaini/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/luvkushsaini/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
