@@ -22,6 +22,7 @@
 | [0377-combination-sum-iv](https://github.com/luvkushsaini/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/luvkushsaini/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0752-open-the-lock](https://github.com/luvkushsaini/Leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/luvkushsaini/Leetcode/tree/master/0815-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -117,6 +118,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/luvkushsaini/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/luvkushsaini/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/luvkushsaini/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
