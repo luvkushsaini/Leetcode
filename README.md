@@ -31,6 +31,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/luvkushsaini/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/luvkushsaini/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1095-find-in-mountain-array](https://github.com/luvkushsaini/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -130,6 +131,7 @@
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/luvkushsaini/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1095-find-in-mountain-array](https://github.com/luvkushsaini/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/luvkushsaini/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -531,4 +533,8 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/luvkushsaini/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
