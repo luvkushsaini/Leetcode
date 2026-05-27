@@ -76,6 +76,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3449-maximize-the-minimum-game-score](https://github.com/luvkushsaini/Leetcode/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -165,6 +166,7 @@
 | [2560-house-robber-iv](https://github.com/luvkushsaini/Leetcode/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3449-maximize-the-minimum-game-score](https://github.com/luvkushsaini/Leetcode/tree/master/3449-maximize-the-minimum-game-score) |
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -232,6 +234,7 @@
 | [2560-house-robber-iv](https://github.com/luvkushsaini/Leetcode/tree/master/2560-house-robber-iv) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3449-maximize-the-minimum-game-score](https://github.com/luvkushsaini/Leetcode/tree/master/3449-maximize-the-minimum-game-score) |
 ## String
 |  |
 | ------- |
