@@ -163,6 +163,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/luvkushsaini/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/luvkushsaini/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/luvkushsaini/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -269,6 +270,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/luvkushsaini/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/luvkushsaini/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -285,6 +287,7 @@
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/luvkushsaini/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/luvkushsaini/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2439-minimize-maximum-of-array](https://github.com/luvkushsaini/Leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -440,6 +443,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/luvkushsaini/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
