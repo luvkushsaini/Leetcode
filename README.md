@@ -74,6 +74,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -430,6 +431,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/luvkushsaini/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Divide and Conquer
 |  |
