@@ -64,6 +64,7 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/luvkushsaini/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/luvkushsaini/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2090-k-radius-subarray-averages](https://github.com/luvkushsaini/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/luvkushsaini/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2187-minimum-time-to-complete-trips](https://github.com/luvkushsaini/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -458,6 +459,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/luvkushsaini/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2953-count-complete-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/2953-count-complete-substrings) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
