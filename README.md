@@ -283,6 +283,7 @@
 | [2833-furthest-point-from-origin](https://github.com/luvkushsaini/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2953-count-complete-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/luvkushsaini/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
@@ -460,6 +461,7 @@
 | [2953-count-complete-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/2953-count-complete-substrings) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/luvkushsaini/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Divide and Conquer
 |  |
 | ------- |
