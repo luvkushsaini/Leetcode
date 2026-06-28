@@ -261,6 +261,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -534,6 +535,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/luvkushsaini/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -624,4 +626,8 @@
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/luvkushsaini/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/luvkushsaini/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
