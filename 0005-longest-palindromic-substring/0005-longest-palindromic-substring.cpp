@@ -7,8 +7,10 @@ public:
         string ans;
         
 
-        for(int i=n-1;i>=0;i--){
-            for(int j=i;j<n;j++){
+        for(int len=1;len<=n;len++){
+            for(int i=0;i<n;i++){
+                int j=i+len-1;
+                if(j>=n)break;
                 if(s[i]!=s[j]){
                     dp[i][j]=0;;
                     continue;
