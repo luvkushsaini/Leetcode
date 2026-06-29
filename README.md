@@ -263,6 +263,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/luvkushsaini/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
