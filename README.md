@@ -269,6 +269,7 @@
 | [0087-scramble-string](https://github.com/luvkushsaini/Leetcode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/luvkushsaini/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0514-freedom-trail](https://github.com/luvkushsaini/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -634,13 +635,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/luvkushsaini/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/luvkushsaini/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/luvkushsaini/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
