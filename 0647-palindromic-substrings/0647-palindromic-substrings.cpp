@@ -1,22 +1,29 @@
 class Solution {
 public:
-    int n;
-    vector<vector<int>>dp;
-    bool check(int i,int j,string&s){
-        if(i>j)return true;
-        if(dp[i][j]!=-1)return dp[i][j];
-        if(s[i]==s[j] && check(i+1,j-1,s))return true;
-        return dp[i][j]=false;
-    }
     int countSubstrings(string s) {
-        n=s.size();
-        dp.assign(n,vector<int>(n,-1));
+        int n=s.size();
+        vector<vector<int>>dp(n,vector<int>(n,0));
         int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(check(i,j,s))count++;
+        for(int len=1;len<=n;len++){
+            for(int i=0;i<n;i++){
+                int j=i+len-1;
+                if(j>=n)break;
+                if(s[i]!=s[j])continue;
+                if(len==1){
+                    count++;
+                    dp[i][j]=1;
+                }
+                else if(len==2 && s[i]==s[j]){
+                    count++;
+                    dp[i][j]=1;
+                }
+                else{
+                    dp[i][j]=dp[i+1][j-1];
+                    if(dp[i][j]==1)count++;
+                }
             }
         }
+
         return count;
     }
 };
