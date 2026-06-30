@@ -1,63 +1,67 @@
 class Solution {
 public:
-bool KMP(string a, string b) {
-        int n=a.size();
-        int m=b.size();
-        if(n<m)return false;
-        vector<int>lps(m);
+
+    bool KMP(string &repeated,string &b){
+        vector<int>lps(b.size());
         lps[0]=0;
+        int i=1;
         int len=0;
-        int j=1;
-        while(j<m){
-            if(b[len]==b[j]){
+        while(i<b.size()){
+            if(b[i]==b[len]){
                 len++;
-                lps[j]=len;
-                j++;
+                lps[i]=len;
+                i++;
             }
             else{
-                if(len!=0){
+                if(len>0){
                     len=lps[len-1];
                 }
-                else {
-                    lps[j]=0;
-                    j++;
+                else{
+                    lps[i]=0;
+                    i++;
                 }
             }
         }
 
-        int i=0;
-            j=0;
-        while(i<n){
-            if(a[i]==b[j]){
+        i=0;
+        int j=0;
+        while(i<repeated.size()){
+            if(j==b.size())return true;
+            if(repeated[i]==b[j]){
                 i++;
                 j++;
+                continue;
             }
-             else if(a[i]!=b[j]){
-                if(j!=0){
+            else{
+                if(j>0){
                     j=lps[j-1];
                 }
-                else i++;
+                else{
+                    i++;
+                }
             }
-            if(j==m)return true;
         }
+        if(j==b.size())return true;
         return false;
     }
+
 
 
     int repeatedStringMatch(string a, string b) {
         int n=a.size();
         int m=b.size();
-        string repeated=a;
-      int times=1;
+        string repeated="";
+        int times=0;
 
-       while(repeated.size()<b.length()+n){ //max to max the common b in a can start from the last index of the a so we will add a such that it also cover the possiblity of starting the b in a from the last index of a 
-        if(KMP(repeated,b))return times;
-        else{
-            repeated+=a;
-            times++;
+        while(repeated.size()<=(m+n)){
+            if(KMP(repeated,b))return times;
+            else{
+                times++;
+                repeated+=a;
+            }
         }
-       }
-       if(KMP(repeated,b))return times;
-       return -1;
+
+        if(KMP(repeated,b))return times;
+        return -1;
     }
 };
