@@ -244,6 +244,7 @@
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/luvkushsaini/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/luvkushsaini/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -279,6 +280,7 @@
 | [0647-palindromic-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/luvkushsaini/Leetcode/tree/master/0686-repeated-string-match) |
 | [0752-open-the-lock](https://github.com/luvkushsaini/Leetcode/tree/master/0752-open-the-lock) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/luvkushsaini/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/luvkushsaini/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/luvkushsaini/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1392-longest-happy-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/1392-longest-happy-prefix) |
@@ -537,6 +539,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/luvkushsaini/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/luvkushsaini/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
 |  |
