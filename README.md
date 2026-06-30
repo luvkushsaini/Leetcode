@@ -57,6 +57,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/luvkushsaini/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/luvkushsaini/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -295,6 +296,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/luvkushsaini/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/luvkushsaini/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/luvkushsaini/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
