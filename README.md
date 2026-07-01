@@ -55,6 +55,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/luvkushsaini/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/luvkushsaini/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/luvkushsaini/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -135,6 +136,7 @@
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1552-magnetic-force-between-two-balls](https://github.com/luvkushsaini/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/luvkushsaini/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/luvkushsaini/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/luvkushsaini/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -254,6 +256,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/luvkushsaini/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/luvkushsaini/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/luvkushsaini/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/luvkushsaini/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/luvkushsaini/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
