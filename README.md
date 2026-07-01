@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/luvkushsaini/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/luvkushsaini/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luvkushsaini/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/luvkushsaini/Leetcode/tree/master/0051-n-queens) |
@@ -136,6 +137,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/luvkushsaini/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
@@ -570,6 +572,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/luvkushsaini/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/0647-palindromic-substrings) |
