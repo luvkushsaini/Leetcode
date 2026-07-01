@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -104,6 +105,7 @@
 | [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
@@ -497,6 +500,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/luvkushsaini/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -540,6 +544,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/luvkushsaini/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2833-furthest-point-from-origin](https://github.com/luvkushsaini/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
