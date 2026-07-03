@@ -246,6 +246,7 @@
 | [2466-count-ways-to-build-good-strings](https://github.com/luvkushsaini/Leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2560-house-robber-iv](https://github.com/luvkushsaini/Leetcode/tree/master/2560-house-robber-iv) |
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/luvkushsaini/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -344,6 +345,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/luvkushsaini/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/luvkushsaini/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
