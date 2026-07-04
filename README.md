@@ -253,6 +253,7 @@
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/luvkushsaini/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/luvkushsaini/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/luvkushsaini/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/luvkushsaini/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -581,6 +583,7 @@
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/luvkushsaini/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/luvkushsaini/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
