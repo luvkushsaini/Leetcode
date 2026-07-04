@@ -97,6 +97,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3689-maximum-total-subarray-value-i](https://github.com/luvkushsaini/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -283,6 +284,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3449-maximize-the-minimum-game-score](https://github.com/luvkushsaini/Leetcode/tree/master/3449-maximize-the-minimum-game-score) |
+| [3689-maximum-total-subarray-value-i](https://github.com/luvkushsaini/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
