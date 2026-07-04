@@ -87,6 +87,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/luvkushsaini/Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/luvkushsaini/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/luvkushsaini/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/luvkushsaini/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -131,6 +132,7 @@
 | [2251-number-of-flowers-in-full-bloom](https://github.com/luvkushsaini/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [2953-count-complete-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/2953-count-complete-substrings) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/luvkushsaini/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -575,6 +577,7 @@
 |  |
 | ------- |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/luvkushsaini/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
