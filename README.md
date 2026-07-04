@@ -409,6 +409,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,6 +434,7 @@
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/luvkushsaini/Leetcode/tree/master/3905-multi-source-flood-fill) |
@@ -609,6 +611,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Graph Theory
@@ -618,6 +621,7 @@
 | [0310-minimum-height-trees](https://github.com/luvkushsaini/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/luvkushsaini/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
