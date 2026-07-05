@@ -10,17 +10,12 @@ public:
         if(dp[tight][i][ct]!=-1)return dp[tight][i][ct];
         int count=0;
         int num=s[i]-'0';
-        if(tight){
-           for(int j=0;j<=num;j++){
-            count+=(solve((j<num?0:1),i+1,ct+(j==1?1:0)));
-           }
-        }
+        int limit=(tight?num:9);
 
-        else{
-            for(int j=0;j<=9;j++){
-                count+=(solve(0,i+1,ct+(j==1?1:0)));
-            }
-        }
+        for(int j=0;j<=limit;j++){
+            int tg=(tight && j==num)?1:0;
+            count+=(solve(tg,i+1,ct+(j==1?1:0)));
+           }
 
         return dp[tight][i][ct]=count;
     }
