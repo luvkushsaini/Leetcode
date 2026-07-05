@@ -236,6 +236,7 @@
 | [0799-champagne-tower](https://github.com/luvkushsaini/Leetcode/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/luvkushsaini/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1012-numbers-with-repeated-digits](https://github.com/luvkushsaini/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
@@ -363,6 +364,7 @@
 | [0233-number-of-digit-one](https://github.com/luvkushsaini/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1012-numbers-with-repeated-digits](https://github.com/luvkushsaini/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
