@@ -41,6 +41,7 @@
 | [1095-find-in-mountain-array](https://github.com/luvkushsaini/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1301-number-of-paths-with-max-score](https://github.com/luvkushsaini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
@@ -239,6 +240,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/luvkushsaini/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/luvkushsaini/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/1140-stone-game-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/luvkushsaini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/luvkushsaini/Leetcode/tree/master/1416-restore-the-array) |
@@ -385,6 +387,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/luvkushsaini/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/luvkushsaini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/luvkushsaini/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
