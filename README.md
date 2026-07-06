@@ -41,6 +41,7 @@
 | [1095-find-in-mountain-array](https://github.com/luvkushsaini/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/luvkushsaini/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/luvkushsaini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
@@ -150,6 +151,7 @@
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1288-remove-covered-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1552-magnetic-force-between-two-balls](https://github.com/luvkushsaini/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/luvkushsaini/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
