@@ -259,6 +259,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/luvkushsaini/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/luvkushsaini/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -375,6 +376,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/luvkushsaini/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/luvkushsaini/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3886-sum-of-sortable-integers](https://github.com/luvkushsaini/Leetcode/tree/master/3886-sum-of-sortable-integers) |
