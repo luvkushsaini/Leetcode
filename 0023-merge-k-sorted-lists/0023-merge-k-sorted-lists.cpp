@@ -10,43 +10,34 @@
  */
 class Solution {
 public:
-    ListNode*mergeTwoLists(ListNode*p1,ListNode*p2){
-        ListNode* dummy=new ListNode(-1);
-        ListNode* temp=dummy;
-            while(p1 && p2){
-                if(p1->val<p2->val){
-                    temp->next=p1;
-                    p1=p1->next;
-                    temp=temp->next;
-                }
-                else{
-                    temp->next=p2;
-                    temp=temp->next;
-                    p2=p2->next;
-                }
-            }
+//most optimal solution 
+//Time: O(N log k)
+//Space: O(k)
 
-            while(p1){
-                    temp->next=p1;
-                    temp=temp->next;
-                    p1=p1->next;
-                }
-            while(p2){
-                    temp->next=p2;
-                    temp=temp->next;
-                    p2=p2->next;
-                }
-            return dummy->next;
-    }
 
+    struct cmp{
+        bool operator()(ListNode*a,ListNode*b){
+            return a->val>b->val;
+        }
+    };
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n=lists.size();
-        ListNode*ans=NULL;
+        priority_queue<ListNode*,vector<ListNode*>,cmp>pq;
         for(int i=0;i<n;i++){
-           ans=mergeTwoLists(lists[i],ans);
+            if(lists[i])pq.push(lists[i]);
         }
 
-        return ans;
+        ListNode*dummy=new ListNode(-1);
+        ListNode*temp=dummy;
+        while(!pq.empty()){
+            ListNode*node=pq.top();
+            pq.pop();
 
+            temp->next=node;
+            temp=temp->next;
+            if(node->next)pq.push(node->next);
+        }
+
+        return dummy->next;
     }
 };
