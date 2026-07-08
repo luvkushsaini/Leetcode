@@ -426,6 +426,7 @@
 | [0785-is-graph-bipartite](https://github.com/luvkushsaini/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/luvkushsaini/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/luvkushsaini/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -648,6 +649,7 @@
 | [0210-course-schedule-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/luvkushsaini/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/luvkushsaini/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/luvkushsaini/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
@@ -734,4 +736,8 @@
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/luvkushsaini/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
