@@ -149,6 +149,7 @@
 | [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1288-remove-covered-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -267,6 +268,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/luvkushsaini/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/luvkushsaini/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/luvkushsaini/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -508,6 +510,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -620,6 +623,7 @@
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/luvkushsaini/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/luvkushsaini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/luvkushsaini/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -744,4 +748,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/luvkushsaini/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
