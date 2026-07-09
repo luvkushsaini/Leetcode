@@ -26,6 +26,7 @@
 | [0377-combination-sum-iv](https://github.com/luvkushsaini/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/luvkushsaini/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/luvkushsaini/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0752-open-the-lock](https://github.com/luvkushsaini/Leetcode/tree/master/0752-open-the-lock) |
@@ -119,6 +120,7 @@
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/luvkushsaini/Leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/luvkushsaini/Leetcode/tree/master/0815-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/luvkushsaini/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -152,6 +154,7 @@
 | [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/luvkushsaini/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
 | [1552-magnetic-force-between-two-balls](https://github.com/luvkushsaini/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -270,6 +273,7 @@
 | [0239-sliding-window-maximum](https://github.com/luvkushsaini/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/luvkushsaini/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/luvkushsaini/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -284,6 +288,7 @@
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/luvkushsaini/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/luvkushsaini/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/luvkushsaini/Leetcode/tree/master/1402-reducing-dishes) |
@@ -598,6 +603,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/luvkushsaini/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2833-furthest-point-from-origin](https://github.com/luvkushsaini/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/luvkushsaini/Leetcode/tree/master/3713-longest-balanced-substring-i) |
