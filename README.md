@@ -101,6 +101,7 @@
 | [3453-separate-squares-i](https://github.com/luvkushsaini/Leetcode/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/luvkushsaini/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/luvkushsaini/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/luvkushsaini/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -263,6 +264,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/luvkushsaini/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/luvkushsaini/Leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2560-house-robber-iv](https://github.com/luvkushsaini/Leetcode/tree/master/2560-house-robber-iv) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/luvkushsaini/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -390,6 +392,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/luvkushsaini/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/luvkushsaini/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -447,6 +450,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -584,6 +588,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/luvkushsaini/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/luvkushsaini/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -655,6 +660,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/luvkushsaini/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
 | ------- |
