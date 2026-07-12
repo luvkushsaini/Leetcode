@@ -27,6 +27,7 @@
 | [0377-combination-sum-iv](https://github.com/luvkushsaini/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/luvkushsaini/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/luvkushsaini/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -120,6 +121,7 @@
 | [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
@@ -660,6 +662,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/luvkushsaini/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/luvkushsaini/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
@@ -706,6 +709,7 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/luvkushsaini/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Queue
