@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/luvkushsaini/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/luvkushsaini/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luvkushsaini/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/luvkushsaini/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0053-maximum-subarray) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/luvkushsaini/Leetcode/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/luvkushsaini/Leetcode/tree/master/0087-scramble-string) |
@@ -291,6 +293,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/luvkushsaini/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/luvkushsaini/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
