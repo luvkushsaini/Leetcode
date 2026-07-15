@@ -29,6 +29,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0480-sliding-window-median](https://github.com/luvkushsaini/Leetcode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/luvkushsaini/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -130,6 +131,7 @@
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/luvkushsaini/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/luvkushsaini/Leetcode/tree/master/0752-open-the-lock) |
@@ -295,6 +297,7 @@
 | [0239-sliding-window-maximum](https://github.com/luvkushsaini/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/luvkushsaini/Leetcode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/luvkushsaini/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/luvkushsaini/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -561,6 +564,7 @@
 | [0219-contains-duplicate-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/luvkushsaini/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/luvkushsaini/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/luvkushsaini/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/luvkushsaini/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/luvkushsaini/Leetcode/tree/master/0904-fruit-into-baskets) |
