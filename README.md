@@ -94,6 +94,7 @@
 | [2560-house-robber-iv](https://github.com/luvkushsaini/Leetcode/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
+| [2653-sliding-subarray-beauty](https://github.com/luvkushsaini/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -146,6 +147,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/luvkushsaini/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
+| [2653-sliding-subarray-beauty](https://github.com/luvkushsaini/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2953-count-complete-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/2953-count-complete-substrings) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/luvkushsaini/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -578,6 +580,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/luvkushsaini/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/luvkushsaini/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2653-sliding-subarray-beauty](https://github.com/luvkushsaini/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2953-count-complete-substrings](https://github.com/luvkushsaini/Leetcode/tree/master/2953-count-complete-substrings) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/luvkushsaini/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
