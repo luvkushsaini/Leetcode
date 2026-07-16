@@ -317,6 +317,7 @@
 | [0045-jump-game-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/luvkushsaini/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/luvkushsaini/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/luvkushsaini/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -349,6 +350,7 @@
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/luvkushsaini/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0402-remove-k-digits](https://github.com/luvkushsaini/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvkushsaini/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/luvkushsaini/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0514-freedom-trail](https://github.com/luvkushsaini/Leetcode/tree/master/0514-freedom-trail) |
@@ -668,6 +670,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/luvkushsaini/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/luvkushsaini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/luvkushsaini/Leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/luvkushsaini/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/luvkushsaini/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/luvkushsaini/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -734,6 +737,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/luvkushsaini/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/luvkushsaini/Leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/luvkushsaini/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Trie
 |  |
