@@ -12,30 +12,26 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> result;
-
+        vector<int>results;
         TreeNode*curr=root;
-
         while(curr!=NULL){
             if(curr->left==NULL){
-                result.push_back(curr->val);
+                results.push_back(curr->val);
                 curr=curr->right;
             }
             else{
-                TreeNode*predecessor=curr->left;
-                while(predecessor->right!=NULL  && predecessor->right!=curr)predecessor=predecessor->right;
-                
-                if(predecessor->right==NULL){
-                    predecessor->right=curr;
-                    curr=curr->left;
+                TreeNode*leftChild=curr->left;
+                TreeNode*temp=leftChild;
+
+                while(temp->right!=NULL){
+                    temp=temp->right;
                 }
-                else{
-                    predecessor->right=NULL;
-                    result.push_back(curr->val);
-                    curr=curr->right;
-                }
+                temp->right=curr;
+                curr->left=NULL;
+                curr=leftChild;
             }
+
         }
-        return result;
+        return results;
     }
 };
