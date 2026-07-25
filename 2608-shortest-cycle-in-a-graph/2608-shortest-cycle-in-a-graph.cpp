@@ -19,6 +19,7 @@ public:
             vis.assign(n,0);
             q.push({i,-1});
             int level=-1;
+            bool found=false;
             while(!q.empty()){
                 level++;
                 int size=q.size();
@@ -33,13 +34,17 @@ public:
                     if(child==par)continue;
                     if(vis[child]){
                         ans=min(ans,dist[node]+dist[child]+1);
-                        continue;
+                        found=true;
+                        break;
                     }
                     else{
                         q.push({child,node});
                     }
                 }
+
+                if(found)break;
                 }
+                if(found)break;
             }
             while(!q.empty())q.pop();
         }
