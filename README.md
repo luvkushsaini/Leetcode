@@ -534,6 +534,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/luvkushsaini/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/luvkushsaini/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/luvkushsaini/Leetcode/tree/master/3905-multi-source-flood-fill) |
@@ -768,6 +769,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/luvkushsaini/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2092-find-all-people-with-secret](https://github.com/luvkushsaini/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/luvkushsaini/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/luvkushsaini/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/luvkushsaini/Leetcode/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/luvkushsaini/Leetcode/tree/master/3620-network-recovery-pathways) |
