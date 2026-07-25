@@ -35,6 +35,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/luvkushsaini/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0480-sliding-window-median](https://github.com/luvkushsaini/Leetcode/tree/master/0480-sliding-window-median) |
+| [0540-single-element-in-a-sorted-array](https://github.com/luvkushsaini/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/luvkushsaini/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/luvkushsaini/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -222,6 +223,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/luvkushsaini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/luvkushsaini/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/luvkushsaini/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/luvkushsaini/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/luvkushsaini/Leetcode/tree/master/0875-koko-eating-bananas) |
