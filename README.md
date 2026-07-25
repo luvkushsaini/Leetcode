@@ -139,6 +139,7 @@
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/luvkushsaini/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/luvkushsaini/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/luvkushsaini/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/luvkushsaini/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -366,6 +367,7 @@
 | [0076-minimum-window-substring](https://github.com/luvkushsaini/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/luvkushsaini/Leetcode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/luvkushsaini/Leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/luvkushsaini/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/luvkushsaini/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/luvkushsaini/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
