@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/luvkushsaini/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/luvkushsaini/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -266,6 +267,7 @@
 | [0087-scramble-string](https://github.com/luvkushsaini/Leetcode/tree/master/0087-scramble-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/luvkushsaini/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/luvkushsaini/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/luvkushsaini/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/luvkushsaini/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/luvkushsaini/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -456,6 +458,7 @@
 | [0130-surrounded-regions](https://github.com/luvkushsaini/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/luvkushsaini/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/luvkushsaini/Leetcode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/luvkushsaini/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/luvkushsaini/Leetcode/tree/master/0741-cherry-pickup) |
 | [0827-making-a-large-island](https://github.com/luvkushsaini/Leetcode/tree/master/0827-making-a-large-island) |
