@@ -104,6 +104,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/luvkushsaini/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2560-house-robber-iv](https://github.com/luvkushsaini/Leetcode/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/luvkushsaini/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/luvkushsaini/Leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/luvkushsaini/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -165,6 +166,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/luvkushsaini/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/luvkushsaini/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/luvkushsaini/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/luvkushsaini/Leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2615-sum-of-distances](https://github.com/luvkushsaini/Leetcode/tree/master/2615-sum-of-distances) |
 | [2653-sliding-subarray-beauty](https://github.com/luvkushsaini/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/luvkushsaini/Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
@@ -445,6 +447,7 @@
 | [1406-stone-game-iii](https://github.com/luvkushsaini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/luvkushsaini/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/luvkushsaini/Leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/luvkushsaini/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/luvkushsaini/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/luvkushsaini/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -827,6 +830,7 @@
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/luvkushsaini/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [2584-split-the-array-to-make-coprime-products](https://github.com/luvkushsaini/Leetcode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/luvkushsaini/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bitmask
 |  |
